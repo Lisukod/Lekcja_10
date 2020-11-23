@@ -45,11 +45,11 @@ def checkWeatherData():
             savedData.append(line)
         if savedData:
             if datetime.strptime(today, "%Y-%m-%d") > datetime.strptime(
-                savedData[0][1], "%Y-%m-%d"):
+                savedData[0][1], "%Y-%m-%d"
+            ):
                 getWeatherData()
         else:
             getWeatherData()
-
 
 
 checkWeatherData()
