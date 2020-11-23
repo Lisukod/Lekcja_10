@@ -1,0 +1,12 @@
+2020-11-22,2020-11-28,rain-and-snow
+2020-11-29,2020-12-05,rain-and-snow
+2020-12-06,2020-12-12,mostly-cloudy
+2020-12-13,2020-12-19,rain-and-snow-shower
+2020-12-20,2020-12-26,rain-and-snow
+2020-12-27,2021-01-02,rain-and-snow
+2021-01-03,2021-01-09,rain-and-snow-shower
+2021-01-10,2021-01-16,rain-and-snow
+2021-01-17,2021-01-23,rain-and-snow
+2021-01-24,2021-01-30,rain-and-snow
+2021-01-31,2021-02-06,mostly-cloudy
+2021-02-07,2021-02-13,rain-and-snow
