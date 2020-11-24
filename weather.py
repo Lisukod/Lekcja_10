@@ -8,7 +8,6 @@ url = "https://weather2020-weather-v1.p.rapidapi.com/zip/e8ecee8ff60c478f8a36280
 
 headers = {
     "x-rapidapi-key": argv[1],
-    # "x-rapidapi-key": "b773b77d47msh87e30978e201745p16f04ajsnf2e30f23932c",
     "x-rapidapi-host": "weather2020-weather-v1.p.rapidapi.com",
 }
 
